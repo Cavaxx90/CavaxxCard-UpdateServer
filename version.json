@@ -1,4 +1,5 @@
 {
-  "latestVersionCode": 23,
-  "apkUrl": "https://github.com/Cavaxx90/CavaxxCard-UpdateServer/releases/download/v3.2/CavaxxCard.apk"
+  "latestVersionCode": 24,
+  "apkUrl": "https://github.com/Cavaxx90/CavaxxCard-UpdateServer/releases/download/v3.3/CavaxxCard.apk",
+  "releaseNotes": "Novità di questa versione:\n\n- Aggiunto il backup delle carte\n- Risolto problema notifiche\n- Migliorata velocità avvio"
 }
